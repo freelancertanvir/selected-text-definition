@@ -42,7 +42,7 @@ jQuery(document).ready(function ($) {
             position: 'absolute',
             top: boundingRect.bottom + window.scrollY + 'px',
             left: boundingRect.left + window.scrollX + 'px',
-            backgroundColor: '#fff',
+            backgroundColor: '#f7f7c4',
             padding: '10px',
             border: '1px solid #ccc',
             borderRadius: '8px',
