@@ -7,7 +7,7 @@
 Plugin Name: Selected Text Definition
 Description: This is a definition plugin to use in blog to show definition of any selected word.
 Author: Tanvir
-Version: 1.0.60
+Version: 2.0.0
 Author URI: tanvirthestar.bio.link
 */
 
