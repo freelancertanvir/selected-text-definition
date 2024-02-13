@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Selected Text Definition
- * @version 1.0.60
+ * @version 2.0
  */
 /*
 Plugin Name: Selected Text Definition
 Description: This is a definition plugin to use in blog to show definition of any selected word.
 Author: Tanvir
-Version: 2.0.0
-Author URI: tanvirthestar.bio.link
+Version: 2.0
+Author URI: https://fiverwebsitedesign.com
 */
 
 // Enqueue the JavaScript file
