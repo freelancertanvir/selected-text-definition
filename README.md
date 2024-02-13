@@ -9,7 +9,7 @@ This plugin enables users to display definitions of selected words on their Word
 
 **Important:**
 - **Service Usage:** The plugin relies on the DictionaryAPI service for fetching definitions.
-- **Link to Service:** You can find more information about the DictionaryAPI service [here](https://api.dictionaryapi.dev/).
-- **Terms of Use and Privacy Policies:** Before using the plugin, please review the [terms of use](https://dictionaryapi.dev/terms.html) and [privacy policy](https://dictionaryapi.dev/privacy.html) of the DictionaryAPI service.
+- **Link to Service:** You can find more information about the DictionaryAPI service [here](https://github.com/meetDeveloper/freeDictionaryAPI).
+- **Terms of Use and Privacy Policies:** Before using the plugin, please review the [terms of use](https://github.com/meetDeveloper/freeDictionaryAPI/blob/master/README.md)
 selected-text-definition/definition.js:66 url: 'https://api.dictionaryapi.dev/api/v2/entries/en/' + text,
 
