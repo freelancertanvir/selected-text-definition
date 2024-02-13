@@ -24,6 +24,10 @@ Author URI: https://fiverwebsitedesign.com
  * along with Selected Text Definition. If not, see <https://www.gnu.org/licenses/>.
  */
 
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
 // Enqueue the JavaScript file
 function std_enqueue_scripts() {
     wp_enqueue_script('definition', plugin_dir_url(__FILE__) . 'definition.js', array('jquery'), '1.0', true);
