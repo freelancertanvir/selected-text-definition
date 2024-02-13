@@ -11,4 +11,4 @@ This plugin enables users to display definitions of selected words on their Word
 - **Service Usage:** The plugin relies on the DictionaryAPI service for fetching definitions.
 - **Link to Service:** You can find more information about the DictionaryAPI service [here](https://github.com/meetDeveloper/freeDictionaryAPI).
 - **Terms of Use and Privacy Policies:** Before using the plugin, please review the [terms of use](https://github.com/meetDeveloper/freeDictionaryAPI/blob/master/README.md)
-- **No Privacy Concern and Terms available to use this free API. It is a open source under GPU License**
+- **No Privacy Concern to use this free API. It is a open source under GPU License**
