@@ -25,7 +25,7 @@ Author URI: https://fiverwebsitedesign.com
  */
 
 // Enqueue the JavaScript file
-function text_preview_enqueue_scripts() {
+function std_enqueue_scripts() {
     wp_enqueue_script('definition', plugin_dir_url(__FILE__) . 'definition.js', array('jquery'), '1.0', true);
 }
-add_action('wp_enqueue_scripts', 'text_preview_enqueue_scripts');
+add_action('wp_enqueue_scripts', 'std_enqueue_scripts');
