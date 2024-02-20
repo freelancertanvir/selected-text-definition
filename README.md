@@ -5,7 +5,8 @@ Stable tag: 2.0
 Requires at least: 5.5
 Tested up to: 6.4
 Requires PHP: 7.0
-License: GNU General Public License v2.0 or later
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 This plugin enables users to display definitions of selected words on their WordPress blogs using a tooltip feature. Please note that this plugin relies on a third-party service for fetching word definitions. 
