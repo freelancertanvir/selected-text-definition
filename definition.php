@@ -28,8 +28,10 @@ Author URI: https://fiverwebsitedesign.com
 if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
+
 // Enqueue the JavaScript file
 function std_enqueue_scripts() {
-    wp_enqueue_script('definition', plugin_dir_url(__FILE__) . 'definition.js', array('jquery'), '1.0', true);
+    wp_enqueue_script('std_definition', plugin_dir_url(__FILE__) . 'definition.js', array('jquery'), '1.0', true);
 }
 add_action('wp_enqueue_scripts', 'std_enqueue_scripts');
+
