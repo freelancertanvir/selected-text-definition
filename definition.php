@@ -6,9 +6,11 @@
 /*
 Plugin Name: Selected Text Definition
 Description: This is a definition plugin to use in blog to show definition of any selected word.
-Author: Tanvir
+Author: Tanvir Islam
 Version: 2.0
 Author URI: https://fiverwebsitedesign.com
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
  *
  * Selected Text Definition is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
